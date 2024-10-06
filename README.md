@@ -24,7 +24,7 @@ This project demonstrates a simple React application that uses state management 
 1. Clone the repository:
 
 ```bash
-git clone [<repository-url>](https://github.com/BhoomiGohil/Scrimba-React-useState.git)
+git clone https://github.com/BhoomiGohil/Scrimba-React-useState.git
 cd Scrimba-React-useState
 ```
 
